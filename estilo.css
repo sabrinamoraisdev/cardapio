@@ -1,0 +1,17 @@
+body,html {
+    margin:auto;
+    background-image: url(fundo1.jpg); 
+    text-align: center;
+    font-family: Verdana;
+    font-size: 100%;
+.item{
+    text-decoration: underline;
+    font-family: Verdana;
+    font-size: 90%;
+}
+
+footer {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: smaller;
+}
